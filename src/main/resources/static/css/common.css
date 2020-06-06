@@ -1,0 +1,40 @@
+body{
+	font-family: 'Manrope', sans-serif;
+}
+#welcome {
+    width: 80%;
+    margin: auto;
+    margin-top: 2%;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+  
+   .cta {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+
+  .cta a {
+    margin: 10px;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid #2e6da4;
+    border-radius: 3px;
+    width: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: #521751;
+  }
+  
+  .cta a:hover,
+  .cta a:active {
+    background-color: #337ab7;
+    color: white;
+  }
