@@ -1,0 +1,4 @@
+2020-12-12 00:25:33 [restartedMain] INFO  com.example.EmployeeProjApplication - Starting EmployeeProjApplication on LAPTOP-IKI84VOT with PID 26476 (C:\Users\Prakhar Kamal\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\employee_proj\target\classes started by Prakhar Kamal in C:\Users\Prakhar Kamal\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\employee_proj)
+2020-12-12 00:25:33 [restartedMain] INFO  com.example.EmployeeProjApplication - No active profile set, falling back to default profiles: default
+2020-12-12 00:25:34 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-12 00:25:34 [restartedMain] INFO  com.example.EmployeeProjApplication - Started EmployeeProjApplication in 0.837 seconds (JVM running for 1591.995)

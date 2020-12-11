@@ -16,7 +16,7 @@
 <body>
 <c:if test="${submission-success.length()>0 }">
 <div class="alert alert-success">
-${submission-success }
+${submission-success}
 </div>
 </c:if>
 <div class="form-group">
